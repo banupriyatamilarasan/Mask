@@ -11,6 +11,16 @@ public class Nothing {
 		System.out.println("t");
 	}
 	
+	private void staff3() {
+		System.out.println("t");
+}
+	private void staff4() {
+		System.out.println("t");
+	}
+	private void staff5() {
+		System.out.println("t");
+	}
+
 	private void staff6() {
 		System.out.println("r");
 	}
@@ -20,5 +30,6 @@ public class Nothing {
 	private void staff8() {
 		System.out.println("t");
 	}
+	
 	
 }
