@@ -11,5 +11,14 @@ public class Nothing {
 		System.out.println("t");
 	}
 	
+	private void staff3() {
+		System.out.println("t");
+}
+	private void staff4() {
+		System.out.println("t");
+	}
+	private void staff5() {
+		System.out.println("t");
+	}
 
 }
